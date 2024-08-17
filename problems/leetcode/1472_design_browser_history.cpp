@@ -1,5 +1,4 @@
-// https://leetcode.com/problems/design-browser-history/description/?source=submission-ac
-
+// https://leetcode.com/problems/design-browser-history/description
 #include <cassert>
 #include <string>
 #include <sys/types.h>
