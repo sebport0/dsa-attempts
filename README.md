@@ -9,3 +9,4 @@ Idea: use C++ only. It looks like the universal language for this kind of proble
 | [70.Climbing Stairs](https://leetcode.com/problems/climbing-stairs)                                                  | [C++](/problems/leetcode/70_climbing_stairs.cpp)                           | Leetcode |
 | [21.Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists)                                    | [C++](/problems/leetcode/21_merge_two_sorted_lists.cpp)                    | Leetcode |
 | [23.Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists)                                        | [C++](/problems/leetcode/23_merge_k_sorted_lists.cpp)                      | Leetcode |
+| [75.Sort Colors](https://leetcode.com/problems/sort-colors)                                                          | [C++](/problems/leetcode/75_sort_colors.cpp)                               | Leetcode |
