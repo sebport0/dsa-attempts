@@ -1,4 +1,5 @@
-Idea: use C++ only. It looks like the universal language for this kind of problems.
+~~Idea: use C++ only. It looks like the universal language for this kind of problems.~~
+|--> I miss having a simple way to run and write unit tests. Going back to Python or Go
 
 | Name                                                                                                                 | Solution                                                                   | Source   |
 | -------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------- | -------- |
@@ -10,3 +11,5 @@ Idea: use C++ only. It looks like the universal language for this kind of proble
 | [21.Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists)                                    | [C++](/problems/leetcode/21_merge_two_sorted_lists.cpp)                    | Leetcode |
 | [23.Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists)                                        | [C++](/problems/leetcode/23_merge_k_sorted_lists.cpp)                      | Leetcode |
 | [75.Sort Colors](https://leetcode.com/problems/sort-colors)                                                          | [C++](/problems/leetcode/75_sort_colors.cpp)                               | Leetcode |
+| [704.Binary Search](https://leetcode.com/problems/binary-search)                                                     | [Python](/problems/leetcode/704_binary_search.py)                          | Leetcode |
+| [74.Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix)                                            | [Python](/problems/leetcode/74_search_a_2d_matrix.py)                      | Leetcode |
