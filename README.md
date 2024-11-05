@@ -13,4 +13,5 @@
 | [75.Sort Colors](https://leetcode.com/problems/sort-colors)                                                          | [C++](/problems/leetcode/75_sort_colors.cpp)                               | Leetcode |
 | [704.Binary Search](https://leetcode.com/problems/binary-search)                                                     | [Python](/problems/leetcode/704_binary_search.py)                          | Leetcode |
 | [74.Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix)                                            | [Python](/problems/leetcode/74_search_a_2d_matrix.py)                      | Leetcode |
-| [374.Guess Number Higher or Lower](https://leetcode.com/problems/guess-number-higher-or-lower)                       | [Python](/problems/leetcode/374_guess_number_higher_or_lower.py)           |
+| [374.Guess Number Higher or Lower](https://leetcode.com/problems/guess-number-higher-or-lower)                       | [Python](/problems/leetcode/374_guess_number_higher_or_lower.py)           | Leetcode |
+| [875.Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas)                                         | [Python](/problems/leetcode/875_koko_eating_bananas.py)                    | Leetcode |
