@@ -15,3 +15,4 @@
 | [74.Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix)                                            | [Python](/problems/leetcode/74_search_a_2d_matrix.py)                      | Leetcode |
 | [374.Guess Number Higher or Lower](https://leetcode.com/problems/guess-number-higher-or-lower)                       | [Python](/problems/leetcode/374_guess_number_higher_or_lower.py)           | Leetcode |
 | [875.Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas)                                         | [Python](/problems/leetcode/875_koko_eating_bananas.py)                    | Leetcode |
+| [700. Search in a Binary Search Tree](https://leetcode.com/problems/search-in-a-binary-search-tree/)                 | [Python](/problems/leetcode/700_search_in_a_binary_search_tree/)           | Leetcode |
