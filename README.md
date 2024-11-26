@@ -16,3 +16,5 @@
 | [374.Guess Number Higher or Lower](https://leetcode.com/problems/guess-number-higher-or-lower)                       | [Python](/problems/leetcode/374_guess_number_higher_or_lower.py)           | Leetcode |
 | [875.Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas)                                         | [Python](/problems/leetcode/875_koko_eating_bananas.py)                    | Leetcode |
 | [700. Search in a Binary Search Tree](https://leetcode.com/problems/search-in-a-binary-search-tree/)                 | [Python](/problems/leetcode/700_search_in_a_binary_search_tree/)           | Leetcode |
+| [701. Insert Into a Binary Search Tree](https://leetcode.com/problems/insert-into-a-binary-search-tree)              | [Python](/problems/leetcode/701_insert_into_a_binary_search_tree/)         | Leetcode |
+| [450. Delete Node in a BST](https://leetcode.com/problems/delete-node-in-a-bst)                                      | [Python](/problems/leetcode/450_delete_node_in_a_bst/)                     | Leetcode |
