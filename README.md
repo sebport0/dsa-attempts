@@ -18,3 +18,4 @@
 | [700. Search in a Binary Search Tree](https://leetcode.com/problems/search-in-a-binary-search-tree/)                 | [Python](/problems/leetcode/700_search_in_a_binary_search_tree/)           | Leetcode |
 | [701. Insert Into a Binary Search Tree](https://leetcode.com/problems/insert-into-a-binary-search-tree)              | [Python](/problems/leetcode/701_insert_into_a_binary_search_tree/)         | Leetcode |
 | [450. Delete Node in a BST](https://leetcode.com/problems/delete-node-in-a-bst)                                      | [Python](/problems/leetcode/450_delete_node_in_a_bst/)                     | Leetcode |
+| [94. Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal)                     | [Python](/problems/leetcode/94_binary_tree_inorder_traversal/)             | Leetcode |
