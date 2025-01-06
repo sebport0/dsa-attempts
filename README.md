@@ -20,3 +20,4 @@
 | [450. Delete Node in a BST](https://leetcode.com/problems/delete-node-in-a-bst)                                      | [Python](/problems/leetcode/450_delete_node_in_a_bst/)                     | Leetcode |
 | [94. Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal)                     | [Python](/problems/leetcode/94_binary_tree_inorder_traversal/)             | Leetcode |
 | [230. Kth Smallest Element in a BST ](https://leetcode.com/problems/kth-smallest-element-in-a-bst)                   | [Go](/problems/leetcode/230_kth_smallest_element_in_a_bst/)                | Leetcode |
+| [3263. Convert Doubly Linked List to Array I](https://leetcode.com/problems/convert-doubly-linked-list-to-array-i)   | [Go](/problems/leetcode/3263_convert_doubly_linked_list_to_array_i)        | Leetcode |
