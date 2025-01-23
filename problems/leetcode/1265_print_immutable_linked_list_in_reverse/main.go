@@ -24,5 +24,12 @@ func printLinkedListInReverse(head ImmutableListNode) {
 	}
 }
 
+func printLinkedListInReverseRecursive(head InmutableListNode) {
+	if head != nil {
+		printLinkedListInReverseRecursive(head.getNext())
+		head.printValue()
+	}
+}
+
 func main() {
 }
