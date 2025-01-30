@@ -2,7 +2,7 @@
 
 - Time: $O(n)$, memory: $O(1)$.
 
-- There is no to create an array to store each $(start + 2 * i)$ value. The
+- There is no need to create an array to store each $(start + 2 * i)$ value. The
   whole operation, including XOR, can be done in the same iteration that
   calculates each $(start + 2 * i)$ member.
 

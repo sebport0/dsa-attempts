@@ -24,3 +24,4 @@
 | [1265. Print Immutable Linked List in Reverse](https://leetcode.com/problems/print-immutable-linked-list-in-reverse) | [Go](/problems/leetcode/1265_print_immutable_linked_list_in_reverse)       | Leetcode |
 | [35. Search Insert Position](https://leetcode.com/problems/search-insert-position)                                   | [Go](/problems/leetcode/35_search_insert_position)                         | Leetcode |
 | [3063. Linked List Frequency](https://leetcode.com/problems/linked-list-frequency)                                   | [C++](/problems/leetcode/3063_linked_list_frequency)                       | Leetcode |
+| [1486. XOR Operation in Array](https://leetcode.com/problems/xor-operation-in-an-array)                              | [C++](/problems/leetcode/1486_xor_operation_in_an_array)                   | Leetcode |
