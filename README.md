@@ -26,3 +26,4 @@
 | [3063. Linked List Frequency](https://leetcode.com/problems/linked-list-frequency)                                   | [C++](/problems/leetcode/3063_linked_list_frequency)                       | Leetcode |
 | [1486. XOR Operation in Array](https://leetcode.com/problems/xor-operation-in-an-array)                              | [C++](/problems/leetcode/1486_xor_operation_in_an_array)                   | Leetcode |
 | [83. Remove Duplicates From Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/)          | [C++](/problems/leetcode/83_remove_duplicates_from_sorted_list)            | Leetcode |
+| [141. Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/description/)                               | [C++](/problems/leetcode/141_linked_list_cycle)                            | Leetcode |
