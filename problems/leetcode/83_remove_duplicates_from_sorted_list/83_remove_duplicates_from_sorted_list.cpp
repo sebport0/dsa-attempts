@@ -1,11 +1,7 @@
 // https://leetcode.com/problems/remove-duplicates-from-sorted-list/
-#include <array>
 #include <cassert>
 #include <iostream>
-#include <map>
-#include <string>
 #include <sys/types.h>
-#include <unordered_map>
 #include <vector>
 
 using namespace std;
