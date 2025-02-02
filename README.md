@@ -30,3 +30,4 @@
 | [160. Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists)              | [C++](/problems/leetcode/160_intersection_of_two_linked_lists)             | leetcode |
 | [136. Single Number](https://leetcode.com/problems/single-number)                                                    | [C++](/problems/leetcode/136_single_number)                                | leetcode |
 | [243. Shortest Word Distance](https://leetcode.com/problems/shortest-word-distance)                                  | [C++](/problems/leetcode/243_shortest_word_distance)                       | leetcode |
+| [2728. Count Houses in a Circular Street](https://leetcode.com/problems/count-houses-in-a-circular-street) | [C++](/problems/leetcode/2728_count_houses_in_a_circular_street) | leetcode |
