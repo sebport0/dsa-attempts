@@ -31,3 +31,4 @@
 | [136. Single Number](https://leetcode.com/problems/single-number)                                                    | [C++](/problems/leetcode/136_single_number)                                | leetcode |
 | [243. Shortest Word Distance](https://leetcode.com/problems/shortest-word-distance)                                  | [C++](/problems/leetcode/243_shortest_word_distance)                       | leetcode |
 | [2728. Count Houses in a Circular Street](https://leetcode.com/problems/count-houses-in-a-circular-street) | [C++](/problems/leetcode/2728_count_houses_in_a_circular_street) | leetcode |
+| [3173. Bitwise OR of Adjacent Elements](https://leetcode.com/problems/bitwise-or-of-adjacent-elements) | [C++](/problems/leetcode/3173_bitwise_or_of_adjacent_elements) | leetcode |
