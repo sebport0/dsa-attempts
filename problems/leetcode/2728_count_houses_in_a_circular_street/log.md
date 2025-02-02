@@ -7,3 +7,9 @@
 
 - Akin to counting an array of bits by flipping all of them to 0 and then
   turning one to 1 to start counting.
+
+- Complexity:
+
+  - Time: $O(k)$
+
+  - Space: $O(1)$
