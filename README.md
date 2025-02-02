@@ -34,3 +34,4 @@
 | [3173. Bitwise OR of Adjacent Elements](https://leetcode.com/problems/bitwise-or-of-adjacent-elements)               | [C++](/problems/leetcode/3173_bitwise_or_of_adjacent_elements)             | leetcode |
 | [3285. Find Indices of Stable Mountains](https://leetcode.com/problems/find-indices-of-stable-mountains)             | [C++](/problems/leetcode/3285_find_indices_of_stable_mountains)            | leetcode |
 | [217. Contains Duplicate](https://leetcode.com/problems/contains-duplicate)                                          | [C++](/problems/leetcode/217_contains_duplicate)                           | leetcode |
+| [1512. Number of Good Pairs](https://leetcode.com/problems/number-of-good-pairs)                                     | [C++](/problems/leetcode/1512_number_of_good_pairs)                        | leetcode |
