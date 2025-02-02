@@ -33,3 +33,4 @@
 | [2728. Count Houses in a Circular Street](https://leetcode.com/problems/count-houses-in-a-circular-street)           | [C++](/problems/leetcode/2728_count_houses_in_a_circular_street)           | leetcode |
 | [3173. Bitwise OR of Adjacent Elements](https://leetcode.com/problems/bitwise-or-of-adjacent-elements)               | [C++](/problems/leetcode/3173_bitwise_or_of_adjacent_elements)             | leetcode |
 | [3285. Find Indices of Stable Mountains](https://leetcode.com/problems/find-indices-of-stable-mountains)             | [C++](/problems/leetcode/3285_find_indices_of_stable_mountains)            | leetcode |
+| [217. Contains Duplicate](https://leetcode.com/problems/contains-duplicate)                                          | [C++](/problems/leetcode/217_contains_duplicate)                           | leetcode |
