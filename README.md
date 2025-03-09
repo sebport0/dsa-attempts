@@ -35,4 +35,4 @@
 | [3285. Find Indices of Stable Mountains](https://leetcode.com/problems/find-indices-of-stable-mountains)             | [C++](/problems/leetcode/3285_find_indices_of_stable_mountains)            | leetcode |
 | [217. Contains Duplicate](https://leetcode.com/problems/contains-duplicate)                                          | [C++](/problems/leetcode/217_contains_duplicate)                           | leetcode |
 | [1512. Number of Good Pairs](https://leetcode.com/problems/number-of-good-pairs)                                     | [C++](/problems/leetcode/1512_number_of_good_pairs)                        | leetcode |
-| [349. Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays) | [C++](/problems/leetcode/349_intersection_of_two_arrays) | leetcode |
+| [349. Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays)                          | [C++](/problems/leetcode/349_intersection_of_two_arrays)                   | leetcode |
