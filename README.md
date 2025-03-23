@@ -37,3 +37,4 @@
 | [1512. Number of Good Pairs](https://leetcode.com/problems/number-of-good-pairs)                                     | [C++](/leetcode/1512_number_of_good_pairs)                        | leetcode |
 | [349. Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays)                          | [C++](/leetcode/349_intersection_of_two_arrays)                   | leetcode |
 | [1570. Dot Product of Two Sparse Vectors](https://leetcode.com/problems/dot-product-of-two-sparse-vectors)           | [C++](/leetcode/1570_dot_product_of_two_sparse_vectors)           | leetcode |
+| [938. Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst)                                              | [python](/leetcode/938_range_sum_of_bst)                          | leetcode |
